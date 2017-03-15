@@ -18,3 +18,8 @@ gulp.task('createSprite', function() {
     .pipe(svgSprite(config))
     .pipe(gulp.dest('./app/temp/sprite/'));
 });
+
+gulp.task('copySpriteCSS', function() {
+  return gulp.src('./app/temp/sprite/css/*.css')
+    .pipe(gulp.dest('./app/assets/styles/modules'));
+});
