@@ -18,4 +18,4 @@ Up your web development skills to the next level by:
 
 By the end of the course, you will be able to write organized, well structured JavaScript and CSS that other developers can easily understand.
 
-Check out the completed website hosted on my [gh-pages](http://edwinchen.co/travel_site/).
+Check out the completed website hosted on my [master branch /docs folder](http://edwinchen.co/travel_site/).
